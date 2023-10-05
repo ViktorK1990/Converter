@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Конвертер</string>
+    <string name="label_text">Введите количество</string>
+    <string name="currency_text">Выберите валюту</string>
+    <string name="result_text">Результат :</string>
+    <string name="delete_btn">Удалить</string>
+    <string name="save_btn">Сохранить результат</string>
+    <string-array name="spinner_items">
+        <item>USD</item>
+        <item>EURO</item>
+        <item>IDR</item>
+    </string-array>
+</resources>
